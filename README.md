@@ -1,6 +1,7 @@
 ### 🤙 Hi!
 <br>
-### 🚬 Information about me.
+
+#### 🚬 Information about me.
 - 🚬 Im 13 years old.
 - 🐍 Programmer in python.
 - 😃 Learning JavaScript, HTML and CSS
