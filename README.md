@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🤙 Hi!
+<br>
+<br>
 
-<!--
-**ZackSintaxys/ZackSintaxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚬 Information about me.
+- 🚬 Im 13 years old.
+- 🐍 Programmer in python.
+- 😃 Learning JavaScript, HTML and CSS
+- 🇦🇷  Im from Argentina
+- 💼 Self-taught learning
