@@ -1,6 +1,5 @@
 ### 🤙 Hi!
 <br>
-<br>
 
 ### 🚬 Information about me.
 - 🚬 Im 13 years old.
