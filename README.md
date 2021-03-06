@@ -4,7 +4,8 @@
 #### 🚬 Information about me.
 - 🚬 Im 13 years old.
 - 🐍 Programmer in python.
-- 😃 Learning JavaScript, HTML and CSS
+- 🍃 Discord Developer
+- 😃 Learning HTML and CSS
 - 🇦🇷  Im from Argentina
 - 💼 Self-taught learning
 
